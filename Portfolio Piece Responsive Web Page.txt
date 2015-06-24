@@ -1,0 +1,81 @@
+Using either the 300 page or the Parse product landing page we worked on together as a base, implement an original, complete responsive web page. This project should serve as your first portfolio piece and it's recommended you invest about 20 hours of work over the next 2 weeks before the due date.
+
+
+Sandi Ma:
+Hi class, since you are working on a "portfolio" piece--if you are not sure which theme, topic, product to focus on and want an idea--then focus on YOURSELF! Make this portfolio piece YOUR PORTFOLIO piece.
+
+
+
+
+Portfolio Piece: Responsive Web Page
+Due Date: Submit your progress on Schoology by June 13th *
+* By 6/13 your entire project need not be complete but there should be clear progress and in a state where instructor and TAs can give you feedback. Target 6/20 for full project completion.
+
+We have now implemented two fully responsive web pages, the 300: Rise of an Empire
+movie page, and the Parse product landing page. You can see previews of these from
+your phone if you’d like:
+
+300: Rise of an Empire: http://goo.gl/jfCPTS
+Parse Product Landing: http://goo.gl/008HFW
+
+
+Using either (or both) of these projects as a base, implement a complete responsive web
+page. Here are three suggested options:
+
+
+Project Portfolio Page
+Coming out of FEWD one of the most important pieces you’ll have is a portfolio of
+professional-quality projects you've worked on, representing some of the latest
+techniques in front-end web application development. Build a page that showcases your
+work. This is the most "real" project option you can do, as you will build a page allowing
+users to browse your work. Those looking to enter web development as a career are
+highly encouraged to choose this project option.
+Implementation suggestion: The Parse product landing page is a suitable base for this.
+Consider showcasing your work in a grid (where the company logos currently reside).
+Where the Parse headline and narrative texts reside is a great place to talk about your
+FEWD journey, your bio/background, or anything else you'd like readers to know. The
+overall page need not be too much more complex than what the Parse page is now, but
+no less complex.
+
+
+Movie or Music Promotional Page
+Displaying rich media on the web is easier than ever, with <img>, the hero pattern we
+learned, and the IFrame pattern capable of showing a YouTube video. Use the 300: Rise
+of an Empire page as a starting point to promote your favorite movie(s) or music. It
+doesn’t have to focus on a single movie/artist; look at iTunes for inspiration on displaying
+collections of artists. Note that it is not sufficient to just replace the text and images of
+the existing 300 page we built. You must change the layout in a meaningful way, and
+ideally add more content. Check out Rotten Tomatoes and IMDB for inspiration on
+content you might add. As this is a media page, it’s expected you make use of plenty of
+images, IFrame/YouTube video and/or the swipeable gallery.
+
+
+Product or Informational Landing Page
+Using either a fictitious or real product, produce a landing page educating the audience
+about its key features, its value proposition, and possibly a call to action to try / download
+it. The Parse landing page is a good starting point, but please alter the layout and add
+content rather than just replacing existing text/images. In many startup, marketing, and
+agency settings, this type of product or informational landing page is very common and
+it’s valuable to be able to present information in a variety of grid-based layouts.
+
+
+Acceptance / Grading Criteria
+- Uses a nav header that serves as an overall header for your page. Need not
+actually have navigational <a> links, but should "brand" your page.
+- Design looks professional and appropriate on devices from phones to typical
+desktop monitors.
+- Centers key content you wish to draw readers' attention to, such as text and
+images. Must use text and images throughout (e.g. cannot be a text-only page).
+- Uses Bootstrap's responsive grid to lay out at least one portion of your page.
+- Craftsmanship points: there is an expectation of portfolio quality to this site. You
+can use either 300 or Parse as the start, but please aim to create new content, and
+especially new layouts using Bootstrap's responsive grid. For a portfolio-quality
+piece, TAs and instructors estimate 15, ideally 20 hours of work on your site over
+the next two weeks outside of class. As always, instructional team is available for
+you should you need extra help.
+
+
+
+
+
+
